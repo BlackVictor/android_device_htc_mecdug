@@ -35,7 +35,7 @@
 # 0PAJ22000 - Dual SIM variant (Taiwan version)
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := htc_mecdug,mecdugl
+TARGET_OTA_ASSERT_DEVICE := htc_mecdug,htc_mecdugl
 
 # Kernel
 BOARD_CUSTOM_BOOTIMG_MK := device/htc/mecdug/mkbootimg.mk
